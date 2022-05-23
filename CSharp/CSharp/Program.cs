@@ -7,8 +7,10 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
+            // Example Abstract Vs Interface
             AbstractVsInterfaceProcess abstractVsInterfaceProcess = new AbstractVsInterfaceProcess();
             abstractVsInterfaceProcess.RunExampleAbstractClasses();
+            abstractVsInterfaceProcess.RunExampleInterface();
         }
     }
 }
