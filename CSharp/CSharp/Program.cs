@@ -11,6 +11,8 @@ namespace CSharp
             AbstractVsInterfaceProcess abstractVsInterfaceProcess = new AbstractVsInterfaceProcess();
             abstractVsInterfaceProcess.RunExampleAbstractClasses();
             abstractVsInterfaceProcess.RunExampleInterface();
+
+            Console.ReadLine();
         }
     }
 }

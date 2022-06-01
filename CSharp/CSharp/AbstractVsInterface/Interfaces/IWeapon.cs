@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CSharp.AbstractVsInterface.Interface
 {
-    interface IPolygon
+    public interface IWeapon
     {
-        void calculateArea(int a, int b);
+        public void showWeaponPower(int powerNumber);
     }
 }

@@ -49,6 +49,17 @@ namespace CSharp.AbstractVsInterface
             Fruit fruit = new Fruit();
             fruit.showColor("red");
 
+
+            Console.WriteLine("--Inject--");
+            ADatabase aDatabase = new ADatabase();
+            BDatabase bDatabase = new BDatabase();
+
+            DatabaseConnection databaseConnection = new DatabaseConnection(aDatabase);
+            databaseConnection.ShowConnection();
+
+            databaseConnection = new DatabaseConnection(bDatabase);
+            databaseConnection.ShowConnection();
+
             Console.WriteLine("===== End Example Interface =====");
         }
     }

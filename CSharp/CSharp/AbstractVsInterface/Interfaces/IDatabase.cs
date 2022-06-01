@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CSharp.AbstractVsInterface.Interface
 {
-    interface IColor
+    public interface IDatabase
     {
-        void showColor(string colorName);
+        public void ShowDatabaseName();
     }
 }

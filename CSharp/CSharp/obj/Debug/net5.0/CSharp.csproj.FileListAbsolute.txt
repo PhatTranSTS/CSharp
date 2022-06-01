@@ -1,0 +1,16 @@
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\CSharp.exe
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\CSharp.deps.json
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.json
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.dev.json
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\CSharp.dll
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\ref\CSharp.dll
+C:\WorkSpaces\CSharp\CSharp\CSharp\bin\Debug\net5.0\CSharp.pdb
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.csproj.AssemblyReference.cache
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.dll
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\ref\CSharp.dll
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.pdb
+C:\WorkSpaces\CSharp\CSharp\CSharp\obj\Debug\net5.0\CSharp.genruntimeconfig.cache

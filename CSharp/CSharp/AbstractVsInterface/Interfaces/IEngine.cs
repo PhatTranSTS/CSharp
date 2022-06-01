@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CSharp.AbstractVsInterface.Interface
 {
-    interface IWeapon
+    public interface IEngine
     {
-        void showWeaponPower(int powerNumber);
+        public void showEnginePower(int powerNumber);
     }
 }

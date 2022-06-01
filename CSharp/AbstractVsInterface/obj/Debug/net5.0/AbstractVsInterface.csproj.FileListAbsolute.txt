@@ -1,0 +1,16 @@
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\AbstractVsInterface.exe
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\AbstractVsInterface.deps.json
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\AbstractVsInterface.runtimeconfig.json
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\AbstractVsInterface.runtimeconfig.dev.json
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\AbstractVsInterface.dll
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\ref\AbstractVsInterface.dll
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\bin\Debug\net5.0\AbstractVsInterface.pdb
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.csproj.AssemblyReference.cache
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.AssemblyInfoInputs.cache
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.AssemblyInfo.cs
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.dll
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\ref\AbstractVsInterface.dll
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.pdb
+C:\WorkSpaces\CSharp\CSharp\AbstractVsInterface\obj\Debug\net5.0\AbstractVsInterface.genruntimeconfig.cache
