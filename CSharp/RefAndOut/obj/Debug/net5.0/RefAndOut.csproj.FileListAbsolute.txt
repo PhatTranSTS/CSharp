@@ -1,0 +1,16 @@
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\RefAndOut.exe
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\RefAndOut.deps.json
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\RefAndOut.runtimeconfig.json
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\RefAndOut.runtimeconfig.dev.json
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\RefAndOut.dll
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\ref\RefAndOut.dll
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\bin\Debug\net5.0\RefAndOut.pdb
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.csproj.AssemblyReference.cache
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.AssemblyInfoInputs.cache
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.AssemblyInfo.cs
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.dll
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\ref\RefAndOut.dll
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.pdb
+C:\WorkSpaces\CSharp\CSharp\RefAndOut\obj\Debug\net5.0\RefAndOut.genruntimeconfig.cache
