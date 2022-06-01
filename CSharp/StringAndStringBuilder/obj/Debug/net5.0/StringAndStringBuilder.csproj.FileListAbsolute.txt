@@ -1,0 +1,16 @@
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.exe
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.deps.json
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.runtimeconfig.json
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.runtimeconfig.dev.json
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.dll
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\ref\StringAndStringBuilder.dll
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\bin\Debug\net5.0\StringAndStringBuilder.pdb
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.csproj.AssemblyReference.cache
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.AssemblyInfoInputs.cache
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.AssemblyInfo.cs
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.dll
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\ref\StringAndStringBuilder.dll
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.pdb
+C:\WorkSpaces\CSharp\CSharp\StringAndStringBuilder\obj\Debug\net5.0\StringAndStringBuilder.genruntimeconfig.cache
