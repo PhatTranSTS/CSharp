@@ -1,0 +1,16 @@
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\EqualsAnd==.exe
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\EqualsAnd==.deps.json
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\EqualsAnd==.runtimeconfig.json
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\EqualsAnd==.runtimeconfig.dev.json
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\EqualsAnd==.dll
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\ref\EqualsAnd==.dll
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\bin\Debug\net5.0\EqualsAnd==.pdb
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.csproj.AssemblyReference.cache
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.AssemblyInfoInputs.cache
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.AssemblyInfo.cs
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.dll
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\ref\EqualsAnd==.dll
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.pdb
+C:\WorkSpaces\CSharp\CSharp\EqualsAnd==\obj\Debug\net5.0\EqualsAnd==.genruntimeconfig.cache
